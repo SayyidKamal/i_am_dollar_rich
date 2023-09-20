@@ -2,15 +2,9 @@
 
 A Millioon Dollar Rich Project
 
-## Getting Started
+Well this is a mimic of the I am Rich app which was an app that sold for quite a few dollars on apple store and all it did was to display a diamond.
 
-This project is a starting point for a Flutter application.
+This project was inspired by the sudden and continous dollar rise in nigeria. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# What the app does
+The app displays a dollar icon which when clicked displays current dollar rate from Yahoo Finance.
